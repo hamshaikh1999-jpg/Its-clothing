@@ -1,0 +1,6 @@
+{
+  "name": "SSK Cloth - Meta Ads Creative Studio",
+  "description": "High-converting Meta Ads generator, previewer, and export studio for SSK Cloth men's shirts targeting Pakistani shoppers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
